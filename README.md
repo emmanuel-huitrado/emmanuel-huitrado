@@ -11,4 +11,6 @@
 
 ![GeneralStats](https://github-readme-stats.vercel.app/api?username=emmanuel-huitrado&show_icons=true)
 
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,docker,express,figma,git,graphql,html,idea,java,js,jenkins,jquery,kubernetes,linux,md,mongodb,mysql,nodejs,postgres,react,sass,spring,vim)
+
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel-huitrado&theme=blue-green)
