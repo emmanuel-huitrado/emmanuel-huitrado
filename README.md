@@ -10,9 +10,9 @@
 
 🏁 Most of my career I've worked with Java Frameworks but I have a wide experience with other tools.
 Before I finished school, I collaborated often with state government with some multimedia projects, later I graduated 🎓 and helped a small company to get the CMMI Level 2 Certification 🥇. 
-A year after I had the oportunity to help saving the economy 📈 working for big american bank 🏦. A couple of years later I made my dream reality and started to work for a big tech company and finally I have accomplished important achievements and growth my career so I can now participate as part of the leadership team for a tech company.
+A year after I had the oportunity to help saving the economy 📈 working for big american bank 🏦. A couple of years later I made my dream reality and started to work for a big tech company 🏢. Finally, after I accomplished important achievements and growth my career, I am now able to participate as part of the leadership team for a growing tech company.
 
-In my career I've had the oportunity to work as a L3 support eng., BI specialist, Scrum Master, Tech Lead and Eng. Manager. 
+In my career I've played different roles like L3 support eng., BI specialist, Project Manager, Scrum Master, Tech Lead and Eng. Manager. 
 
 🏈 I love sports, 📖 books and 🎮 videogames. 
 
